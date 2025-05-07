@@ -3,7 +3,7 @@
 A simple Flappy Bird clone built using Unity. This project is designed for beginners who are learning game development with Unity and C#. It replicates the core mechanics of the classic Flappy Bird game.
 
 ## 🛠️ Features
-
+ 
 - Endless side-scrolling environment
 - Tap to flap gameplay
 - Score tracking
