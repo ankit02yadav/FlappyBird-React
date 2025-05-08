@@ -4,7 +4,7 @@ A simple Flappy Bird clone built using Unity. This project is designed for begin
 
 ## 🛠️ Features
  
-- Endless side-scrolling environment
+- Endless side-scrolling environment 
 - Tap to flap gameplay
 - Score tracking
 - Obstacle spawning with gap detection
