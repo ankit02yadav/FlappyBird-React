@@ -12,7 +12,7 @@ public class logicScript : MonoBehaviour
     {
         playerscore = playerscore + 1; 
         scoretext.text = playerscore.ToString();
-    }
+    } 
     public void restartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
