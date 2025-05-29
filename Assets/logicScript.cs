@@ -11,7 +11,7 @@ public class logicScript : MonoBehaviour
     public void addScore()
     {
         playerscore = playerscore + 1; 
-        scoretext.text = playerscore.ToString();
+        scoretext.text = playerscore.ToString();  
     } 
     public void restartGame()
     {
