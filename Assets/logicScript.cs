@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class logicScript : MonoBehaviour
+public class logicScript : MonoBehaviour  
 {
     public int playerscore;
     public Text scoretext;
