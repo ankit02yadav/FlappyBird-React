@@ -4,7 +4,7 @@ public class BirdFly : MonoBehaviour
 {
     public Rigidbody2D Myrigidbody;
     public float upthrust;
-    public logicScript logic;
+    public logicScript logic;   
     public bool BirdAlive = true;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
