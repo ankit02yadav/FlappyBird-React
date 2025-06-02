@@ -12,7 +12,7 @@ public class BirdFly : MonoBehaviour
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<logicScript>();
     }   
     
-    // Update is called once per frame
+    // Update  once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) == true && BirdAlive == true)
