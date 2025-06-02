@@ -11,7 +11,7 @@ public class BirdFly : MonoBehaviour
     {   
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<logicScript>();
     }   
-  
+    
     // Update is called once per frame
     void Update()
     {
