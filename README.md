@@ -39,7 +39,7 @@ A simple Flappy Bird clone built using Unity. This project is designed for begin
   ├── Scripts/          # Game logic scripts
   ├── Prefabs/          # Pipe and bird prefabs
   ├── Scenes/           # Main game scene
-  ├── Sprites/          # 2D graphics and assets
+  ├── Sprites/          # 2D graphics
   ```
 ## 📄 License
 This project is open-source and available under the MIT License.
