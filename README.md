@@ -13,7 +13,7 @@ A simple Flappy Bird clone built using Unity. This project is designed for begin
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Prerequisites   
 
 - Unity (2021.3 LTS or later recommended)
 - Git (optional, for cloning the repo)    
